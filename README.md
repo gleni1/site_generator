@@ -12,4 +12,4 @@ Let's build a static site generator from scratch! A static site generator takes 
 
 ## Example Result
 
-![Static HTML/CSS site](public/images/result.png)
+![Static HTML/CSS site](root_directory/public/images/result.png)
