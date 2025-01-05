@@ -87,7 +87,7 @@ class TestHTMLNode(unittest.TestCase):
             "<p><b>Bold text</b>Normal text<i>italic text</i>Normal text</p>",
         )
 
-
+#test the headings
     def test_headings(self):
         node = ParentNode(
             "h2",
